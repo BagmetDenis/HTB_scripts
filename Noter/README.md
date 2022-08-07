@@ -1,2 +1,2 @@
 # Noter
-![Image](Noter.jpg)
+![Image](Noter.png)

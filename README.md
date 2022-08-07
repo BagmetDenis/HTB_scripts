@@ -1,2 +1,2 @@
 # HTB Scripts
-##Scripts for passing machines HackTheBox
+## Scripts for passing machines HackTheBox
